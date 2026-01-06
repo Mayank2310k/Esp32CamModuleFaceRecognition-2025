@@ -82,5 +82,11 @@ This project is intended for educational and learning purposes only.
 It is not designed for professional security or surveillance deployments.
 
 =>License
-This project is open for learning and academic use.
-Feel free to explore, modify, and improve it with proper attribution.
+## Third-Party Licenses & Attribution
+This project uses components from the Espressif ESP32 SDK and related libraries.
+Portions of the code are based on software provided by  
+**Espressif Systems (Shanghai) PTE LTD**,  
+licensed under the **Apache License, Version 2.0**.
+Apache License 2.0:  
+http://www.apache.org/licenses/LICENSE-2.0
+
