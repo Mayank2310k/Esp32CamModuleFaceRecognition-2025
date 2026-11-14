@@ -69,7 +69,7 @@ Performance analysis
 Images and project poster
 
 =>Visit the official project page:
-https://mktechslab.com/college-2025/
+https://mktechslab.com/collage-2025/
 
 =>Author
 Mayank Kulkarni
