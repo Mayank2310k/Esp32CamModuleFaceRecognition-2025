@@ -69,13 +69,13 @@ Performance analysis
 Images and project poster
 
 =>Visit the official project page:
-https://mayank.wiki/college-2025/
+https://mktechslab.com/college-2025/
 
 =>Author
 Mayank Kulkarni
 Founder – MKTechs
 Embedded Systems | IoT | Edge AI | Full-Stack Development
--> https://mayank.wiki
+-> https://mktechslab.com
 
 =>Disclaimer
 This project is intended for educational and learning purposes only.
